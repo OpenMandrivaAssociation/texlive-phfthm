@@ -1,6 +1,6 @@
 Name:		texlive-phfthm
 Version:	60735
-Release:	1
+Release:	2
 Summary:	Goodies for theorems and proofs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phfthm
