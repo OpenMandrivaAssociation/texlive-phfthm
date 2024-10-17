@@ -3,7 +3,7 @@ Version:	60735
 Release:	2
 Summary:	Goodies for theorems and proofs
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phfthm
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/phfthm
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phfthm.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phfthm.doc.r%{version}.tar.xz
